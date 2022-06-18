@@ -1,0 +1,16 @@
+What is the retail price of the software package?
+99
+Enter the number of software packages you purchased.
+10
+
+
+===================================================================
+The Retail Cost Per Software Package = $ 99.00
+The Quantity / Number of Packages Purchased = 10
+===================================================================
+===================================================================
+The Discount % rate = 10.00%
+The Calculated DiscountAmount= $ 99.00
+Actual Amount of software purchase Before the Discount = $ 990.00
+Total Amount of software purchase After the Discount = $ 891.00
+===================================================================
